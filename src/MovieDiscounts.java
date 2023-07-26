@@ -16,6 +16,7 @@ public class MovieDiscounts {
 		} 
 		
 		System.out.println("The ticket price is: $" + ticketPrice);
+		in.close();
 	}//main
 
 }//class

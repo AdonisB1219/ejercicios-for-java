@@ -26,6 +26,7 @@ public class ComissionCalculator {
 		}
 		
 		System.out.println("Your comision is: $" + comission);
+		in.close();
 	}//main
 
 }//class
